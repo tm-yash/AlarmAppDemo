@@ -1,0 +1,15 @@
+export const Images ={
+    clockGray:require("./ClockGray.png"),
+    clock:require("./Clock.png"),
+    watchGray:require("./WatchGray.png"),
+    watch:require("./Watch.png"),
+    stopWatchGray:require("./StopWatchGray.png"),
+    stopWatch:require("./StopWatch.png"),
+    timeGray:require("./TimeGray.png"),
+    time:require("./Time.png"),
+    modelPlusIcon:require("./Vector.png"),
+    Push:require("./pause.png"),
+    Play:require("./start.png"),
+    ResetIcon:require("./Vector-2.png"),
+    Flag:require("./Flag.png"),
+}
